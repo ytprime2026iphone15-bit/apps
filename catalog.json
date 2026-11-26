@@ -1,0 +1,52 @@
+{
+ "apps": [
+  {
+   "id": "com.garrebha.salah",
+   "name": "الصلاة أهم",
+   "desc": "مواقيت الصلاة والقبلة والأذان والمصحف والأذكار",
+   "notes": "ثيم داكن وفاتح وألوان، اسم المدينة",
+   "versionCode": 9,
+   "versionName": "1.8",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v9.apk",
+   "sha256": "1ba16f0549e7adb5097496dd6d9188bc256f5a4e27f311399b5de429fec93fd0",
+   "size": 820540,
+   "cert": "fa809742b02315076baa4f87d53e6eb3dfa1dbc57f7c3062e70830292a509e33"
+  },
+  {
+   "id": "com.garrebha.tracker",
+   "name": "متتبع جربها",
+   "desc": "متتبع جربها",
+   "notes": "",
+   "versionCode": 4,
+   "versionName": "4.0",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.tracker-v4.apk",
+   "sha256": "5466f94060735f621b6bb1c4506e2a674f72c9eb98ff694086272e3d249bc1c9",
+   "size": 87058,
+   "cert": "30535dfca4244f9602c03ffa3744c615bf740c58141f98007eeb3abdd0a6c1eb"
+  },
+  {
+   "id": "com.mohamed.ricohprint",
+   "name": "طباعة ريكو",
+   "desc": "طباعة على طابعة ريكو",
+   "notes": "",
+   "versionCode": 3,
+   "versionName": "3.0",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.mohamed.ricohprint-v3.apk",
+   "sha256": "c93d3051b82d122709ded5ea5de6718b7b8191eeaa71ac470eae4c72efc3ec5a",
+   "size": 140392,
+   "cert": "c3726f9d28fa53289e97c772ae444f9493d711c9f64d872810c960dc1a11ca8f"
+  },
+  {
+   "id": "com.mohamed.store",
+   "name": "متجر التطبيقات",
+   "desc": "المتجر نفسه، بيتحدث من هنا",
+   "notes": "",
+   "versionCode": 1,
+   "versionName": "1.0",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.mohamed.store-v1.apk",
+   "sha256": "2730d574acded723337a30c88900446ec898b7b59655fdb51c18b7789d6f120f",
+   "size": 58163,
+   "cert": "3d677795bc1726a367b37b8473df5ba1da2ec0394d5c9d0f6ecc41c17d8aabb1"
+  }
+ ]
+}
