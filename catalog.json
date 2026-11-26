@@ -40,13 +40,25 @@
    "id": "com.mohamed.store",
    "name": "متجر التطبيقات",
    "desc": "المتجر نفسه، بيتحدث من هنا",
-   "notes": "",
-   "versionCode": 1,
-   "versionName": "1.0",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.mohamed.store-v1.apk",
-   "sha256": "2730d574acded723337a30c88900446ec898b7b59655fdb51c18b7789d6f120f",
+   "notes": "تثبيت توقيع مشغل الموسيقى",
+   "versionCode": 2,
+   "versionName": "1.1",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.mohamed.store-v2.apk",
+   "sha256": "b24e280d2e7a9dcc8345c3fdbca0d550b1cb74b291437658f439798ae0b0ef84",
    "size": 58163,
    "cert": "3d677795bc1726a367b37b8473df5ba1da2ec0394d5c9d0f6ecc41c17d8aabb1"
+  },
+  {
+   "id": "com.garrebha.music",
+   "name": "مشغل الموسيقى",
+   "desc": "مشغل موسيقى عربي بيشغّل الأغاني والتلاوات الموجودة على جهازك، ببحث وفلاتر، صور الأغاني، قوائم تشغيل خاصة وتلقائية للقرآن والتنزيلات، تكرار وخلط، وتشغيل في الخلفية.",
+   "notes": "قوائم تشغيل: اعمل قوائمك بنفسك، وقائمتين تلقائيتين للقرآن الكريم والتنزيلات.",
+   "versionCode": 4,
+   "versionName": "4.0",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.music-v4.apk",
+   "sha256": "c1cbfc8959e89bb5d2fd438a2b4e581287ee73fefc0420ddc4161f1c26365802",
+   "size": 94067,
+   "cert": "730490a691c1645f1d70aa32588533ace89c0d34b84278064cc18769c54011f6"
   }
  ]
 }
