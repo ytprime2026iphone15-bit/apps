@@ -4,12 +4,12 @@
    "id": "com.garrebha.salah",
    "name": "الصلاة أهم",
    "desc": "مواقيت الصلاة والأذان والقرآن والأذكار",
-   "notes": "v2.7: المصحف كامل — 604 صفحة من الفاتحة للناس في تمرير واحد مع عناوين السور والانتقال لصفحة أو سورة",
-   "versionCode": 18,
-   "versionName": "2.7",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v18.apk",
-   "sha256": "2ac711c66e0d8740558736c51690efac2c07a0d8d1d8dddf25a247a7e43e2f93",
-   "size": 894294,
+   "notes": "v2.8: صوت الأذان الافتراضي بقى تسجيل CC0 من ويكيميديا كومنز بدل تسجيل غير مرخّص",
+   "versionCode": 19,
+   "versionName": "2.8",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v19.apk",
+   "sha256": "3afde87e00974a19eca8a5b010fb2e85787567d2051e212bebf51c55866d7dfd",
+   "size": 1721686,
    "cert": "fa809742b02315076baa4f87d53e6eb3dfa1dbc57f7c3062e70830292a509e33"
   },
   {
