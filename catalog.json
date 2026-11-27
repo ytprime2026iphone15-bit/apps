@@ -4,12 +4,12 @@
    "id": "com.garrebha.salah",
    "name": "الصلاة أهم",
    "desc": "مواقيت الصلاة والقبلة والأذان والمصحف والأذكار",
-   "notes": "الذكر بيتحسب بالضغط على أي مكان في الكارت + نزول تلقائي للمصحف بسلايدر سرعة",
-   "versionCode": 16,
-   "versionName": "2.5",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v16.apk",
-   "sha256": "91d7d26bf4522b3888be6709a6de07c4b0eacf541a2800c8fb48b56a68713254",
-   "size": 845077,
+   "notes": "مصحف المدينة بصفحات متتالية بخط مجمع الملك فهد",
+   "versionCode": 17,
+   "versionName": "2.6",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v17.apk",
+   "sha256": "8e778bb2f40496a91453987b1ed19cd1d5e4ded80c58cea513cf8035cd075e2b",
+   "size": 955734,
    "cert": "fa809742b02315076baa4f87d53e6eb3dfa1dbc57f7c3062e70830292a509e33"
   },
   {
