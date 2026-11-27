@@ -51,13 +51,13 @@
   {
    "id": "com.garrebha.music",
    "name": "مشغل الموسيقى",
-   "desc": "مشغل موسيقى بيشغّل الصوتيات اللي مميّزها بنجمة، بتصميم نضيف، ألوان كتير تختار منها، وبلاي ليست خاصة بيك",
-   "notes": "v5: تصميم جديد شبه ملفات جوجل، عرض المفضلة بنجمة بس، استيراد مفضلة النظام، 75 لون (3 خلفيات × 25 لون)، بلاي ليست خاصة، تشغيل في الخلفية",
-   "versionCode": 5,
-   "versionName": "5.0",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.music-v5.apk",
-   "sha256": "6d193d3ef5b08aeb90c76824011aa26112f234c94b0906e3b8c2bb44027ff90a",
-   "size": 45883,
+   "desc": "مشغل موسيقى بيشغّل الصوتيات اللي مميّزها بنجمة، بتصميم شبه ملفات جوجل، ألوان كتير، وبلاي ليست خاصة بيك",
+   "notes": "v5.1: تصميم مطابق لملفات جوجل (صفوف مسطحة على خلفية سوداء، مجلدات فوق، شاشة أقسام)، أرقام عربية، سرعة تشغيل، معلومات الملف، الفتح باستخدام",
+   "versionCode": 6,
+   "versionName": "5.1",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.music-v6.apk",
+   "sha256": "cec6ff69eef2ae5c62f0ff7b23248ddd56e09022ed677357959df9264d26e6b7",
+   "size": 54075,
    "cert": "730490a691c1645f1d70aa32588533ace89c0d34b84278064cc18769c54011f6"
   }
  ]
