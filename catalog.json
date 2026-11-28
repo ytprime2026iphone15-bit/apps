@@ -4,12 +4,12 @@
    "id": "com.garrebha.salah",
    "name": "الصلاة أهم",
    "desc": "مواقيت الصلاة والأذان والقرآن والأذكار",
-   "notes": "v2.10: شاشة تشغيل وإيقاف التنبيهات — الأذان والإقامة وتذكير الصلاة وتذكير الأذكار كل واحد لوحده",
-   "versionCode": 22,
-   "versionName": "2.10",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v22.apk",
-   "sha256": "0e76b3c051940839a21b36512c35cb21ee7cc4d963ee9a3afb5e67f224a9a9b7",
-   "size": 4044456,
+   "notes": "v2.11: اختيار صوت الإقامة والتنبيه قبل الصلاة، اختيار صورة شاشة الأذان لكل صلاة مع معاينة، وإيقاف الأذان من الإشعار",
+   "versionCode": 23,
+   "versionName": "2.11",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v23.apk",
+   "sha256": "81896d0be6d84c5327da52c040f801e1e376a187c0e61bf86c72a98e5b5ebf6d",
+   "size": 11848481,
    "cert": "fa809742b02315076baa4f87d53e6eb3dfa1dbc57f7c3062e70830292a509e33"
   },
   {
