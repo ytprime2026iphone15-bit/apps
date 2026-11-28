@@ -4,12 +4,12 @@
    "id": "com.garrebha.salah",
    "name": "الصلاة أهم",
    "desc": "مواقيت الصلاة والأذان والقرآن والأذكار",
-   "notes": "v2.12: إصلاح شاشة صوت التنبيه قبل الصلاة وصوت الإقامة (كانت بتفتح فاضية)",
-   "versionCode": 24,
-   "versionName": "2.12",
-   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v24.apk",
-   "sha256": "6ca0227c949f24cfd79059032f5f5bc24b8ca1f78bfaaad1bf80d3f498b152c3",
-   "size": 11848481,
+   "notes": "v2.13: صوت «اقتربت صلاة …» و«قد قامت الصلاة»، بحث في قوائم الأصوات، ورجوع أيقونة التطبيق القديمة",
+   "versionCode": 25,
+   "versionName": "2.13",
+   "url": "https://raw.githubusercontent.com/ytprime2026iphone15-bit/apps/main/apps/com.garrebha.salah-v25.apk",
+   "sha256": "a7dadf84b3b1e97c55a7e88c1917e810c7049bcff00f7444a2b925fc7962d349",
+   "size": 11696929,
    "cert": "fa809742b02315076baa4f87d53e6eb3dfa1dbc57f7c3062e70830292a509e33"
   },
   {
